@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.844" height="29.279" viewBox="0 0 40.844 29.279">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_202" data-name="Rectangle 202" width="40.844" height="29.279" fill="none" stroke="#afafaf" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_126" data-name="Groupe 126" transform="translate(0 0)">
+    <g id="Groupe_125" data-name="Groupe 125" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Tracé_1213" data-name="Tracé 1213" d="M39.874,24.548H4.19V2.541A1.541,1.541,0,0,1,5.732,1h32.6a1.541,1.541,0,0,1,1.541,1.541Z" transform="translate(-1.374 -0.328)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Tracé_1214" data-name="Tracé 1214" d="M37.55,40.424H3.949A2.95,2.95,0,0,1,1,37.474V36.037H40.5v1.437A2.95,2.95,0,0,1,37.55,40.424Z" transform="translate(-0.328 -11.817)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectangle_201" data-name="Rectangle 201" width="30.545" height="18.731" transform="translate(5.386 3.085)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Tracé_1215" data-name="Tracé 1215" d="M13.225,22.126l7.189-6.456L26.2,20.755l6.729-6.514" transform="translate(-4.336 -4.67)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Tracé_1216" data-name="Tracé 1216" d="M40.241,11.356l3.164,3.164,1.143-4.364Z" transform="translate(-13.195 -3.33)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
